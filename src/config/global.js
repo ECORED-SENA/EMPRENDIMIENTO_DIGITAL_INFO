@@ -16,7 +16,7 @@ export default {
       },
       {
         nombre: 'Miguel Ricardo Rivera Lizcano',
-        cargo: 'Experta temático',
+        cargo: 'Experto temático',
         centro:
           'Centro de La Industria, La Empresa y Los servicios - Regional Huila',
       },
